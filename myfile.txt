@@ -1,0 +1,13 @@
+2021-04-28 21:20:13.792086
+Enter a number or type 'STOP' to turn off:145632
+Enter an operation (+, -, *, /, or %):+
+Enter a number or type 'STOP' to turn off:1225
+145632 + 1225 = 146857
+2021-04-28 21:20:21.654276
+2021-04-28 21:20:25.497853
+Enter a number or type 'STOP' to turn off:321311
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:515
+321311 / 515 = 623.9048543689321
+2021-04-28 21:20:31.341892
+Turning off.
