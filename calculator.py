@@ -39,7 +39,7 @@ while True:
     print(datetime.now())
     print(datetime.now(), file=f)
     '''
-    taking first number to calculate other wise type stop to turn off
+    enter first number to calculate other wise type stop to turn off
     if entered value is not digit then it shows invalid number
     '''
     input1 = input("Enter a number or type 'STOP' to turn off: ")
@@ -56,7 +56,9 @@ while True:
     # operator - enter what operation do you want
     operator = input("Enter an operation (+, -, *, /, %, or **): ")
     operator = operator.strip()
+    # if you entered other than providing options it will show entered operation is invalid
     print("Enter an operation (+, -, *, /, or %):" + str(operator), file=f)
+    # enter second number to calculate
     input2 = input("Enter another number: ")
     if not input2.isdigit():
         print("This is not a valid number.")
