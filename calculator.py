@@ -34,7 +34,9 @@ def divide(operand1, operand2):
         :param operand2: second input as divisor
         :return: division of first number and second number to get quotient
     """
-    if operand1 == 0 or operand2 == 0:
+    if operand1 == 0:
+        return 0
+    elif operand2 == 0:
         return None
     else:
         return operand1 / operand2
@@ -46,8 +48,10 @@ def modulo(operand1, operand2):
         :param operand2: second input as divisor
         :return: addition of first number and second number to get remainder
     """
-    if operand1 == 0 or operand2 == 0:
+    if operand1 == 0:
         return 0
+    elif operand2 == 0:
+        return None
     else:
         return operand1 % operand2
 
