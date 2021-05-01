@@ -34,7 +34,10 @@ def divide(operand1, operand2):
         :param operand2: second input as divisor
         :return: division of first number and second number to get quotient
     """
-    return operand1 / operand2
+    if operand1 == 0 or operand2 == 0:
+        return
+    else:
+        return operand1 / operand2
 
 
 def modulo(operand1, operand2):
@@ -43,7 +46,10 @@ def modulo(operand1, operand2):
         :param operand2: second input as divisor
         :return: addition of first number and second number to get remainder
     """
-    return operand1 % operand2
+    if operand1 == 0 or operand2 == 0:
+        return 0
+    else:
+        return operand1 % operand2
 
 
 def power(operand1, operand2):
@@ -67,7 +73,7 @@ while True:
         if entered value is not digit then it shows invalid number
         '''
         input1 = input("Enter a number or type 'STOP' to turn off: ")
-        if 'STOP' or 'stop' or 'Stop' in input1:
+        if input1 == 'STOP' or input1 == 'stop' or input1 == 'Stop':
             print("Turning off.")
             print("Turning off.", file=f)
             break
