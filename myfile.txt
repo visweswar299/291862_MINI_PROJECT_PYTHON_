@@ -11,3 +11,176 @@ Enter a number or type 'STOP' to turn off:515
 321311 / 515 = 623.9048543689321
 2021-04-28 21:20:31.341892
 Turning off.
+2021-04-28 22:09:50.540148
+Enter a number or type 'STOP' to turn off:1
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:4
+1 / 4 = 0.25
+2021-04-28 22:10:07.979725
+Turning off.
+2021-04-29 21:33:41.040391
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):$
+Enter a number or type 'STOP' to turn off:12
+You did not enter a valid operation.
+2021-04-29 21:43:15.792060
+Enter a number or type 'STOP' to turn off:159
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:14
+159 / 14 = 11.357142857142858
+2021-04-29 21:43:29.122928
+Turning off.
+2021-05-01 07:39:10.120352
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:2
+12 / 2 = 6.0
+2021-05-01 07:39:19.323481
+2021-05-01 07:39:23.226398
+Turning off.
+2021-05-01 07:41:46.532404
+This is not a valid number.
+2021-05-01 07:41:50.871326
+Turning off.
+2021-05-01 07:44:23.654121
+Turning off.
+2021-05-01 09:08:46.626898
+2021-05-01 09:09:15.448590
+2021-05-01 09:40:37.745155
+Turning off.
+2021-05-01 09:41:43.009708
+Turning off.
+2021-05-01 09:43:26.295605
+Turning off.
+2021-05-01 09:45:52.802352
+Turning off.
+2021-05-01 09:48:04.219995
+Turning off.
+2021-05-01 09:48:50.746924
+Turning off.
+2021-05-01 09:51:44.122753
+Turning off.
+2021-05-01 09:51:50.977287
+Turning off.
+2021-05-01 11:13:05.564111
+Turning off.
+2021-05-01 11:14:14.745972
+Turning off.
+2021-05-01 11:16:08.869811
+Turning off.
+2021-05-01 11:16:32.409241
+Turning off.
+2021-05-01 11:19:31.986999
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:0
+12 / 0 = None
+2021-05-01 11:19:56.716233
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:0
+2021-05-01 11:21:06.379982
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:0
+12 / 0 = None
+2021-05-01 11:21:42.366732
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):%
+Enter a number or type 'STOP' to turn off:0
+12 % 0 = None
+2021-05-01 11:22:20.139416
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:0
+12 / 0 = None
+2021-05-01 11:26:36.846319
+This is not a valid number.
+2021-05-01 11:26:39.394790
+This is not a valid number.
+2021-05-01 11:26:45.814283
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:1
+12 / 1 = 12.0
+2021-05-01 11:26:53.526304
+Turning off.
+2021-05-01 11:28:40.734631
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:1
+12 / 1 = 12.0
+2021-05-01 11:28:44.734036
+Turning off.
+2021-05-01 11:36:37.504288
+Turning off.
+2021-05-01 11:39:28.863478
+2021-05-01 11:39:42.860377
+Turning off.
+2021-05-01 11:41:38.576564
+Turning off.
+2021-05-01 11:42:57.982497
+Enter a number or type 'STOP' to turn off:12
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:10
+12 / 10 = 1.2
+2021-05-01 11:43:04.754809
+Turning off.
+2021-05-01 11:43:33.791405
+Turning off.
+2021-05-01 12:08:23.206125
+Enter a number or type 'STOP' to turn off:145623
+Enter an operation (+, -, *, /, or %):**14
+Enter a number or type 'STOP' to turn off:4
+You did not enter a valid operation.
+2021-05-01 12:08:35.280640
+Enter a number or type 'STOP' to turn off:145623
+Enter an operation (+, -, *, /, or %):**
+Enter a number or type 'STOP' to turn off:4
+145623 ** 4 = 449696901370526980641
+2021-05-01 12:08:49.377220
+Turning off.
+2021-05-01 12:13:19.147126
+Enter a number or type 'STOP' to turn off:24
+Enter an operation (+, -, *, /, or %):/
+Enter a number or type 'STOP' to turn off:5
+24 / 5 = 4.8
+2021-05-01 12:13:23.846613
+Turning off.
+2021-05-01 12:16:33.481661
+Turning off.
+2021-05-01 12:18:28.843983
+2021-05-01 12:18:46.488617
+Turning off.
+2021-05-01 12:19:21.017240
+Turning off.
+2021-05-01 12:24:36.751774
+Turning off.
+2021-05-01 12:24:42.372248
+Turning off.
+2021-05-01 12:24:49.664500
+This is not a valid number.
+2021-05-01 12:24:51.350204
+This is not a valid number.
+2021-05-01 12:24:57.410049
+Turning off.
+2021-05-01 12:56:35.834996
+Turning off.
+2021-05-01 12:57:05.300882
+Turning off.
+2021-05-01 12:57:41.576919
+Turning off.
+2021-05-01 12:58:53.220101
+Turning off.
+2021-05-01 13:03:55.935335
+Turning off.
+2021-05-01 13:05:03.174691
+Turning off.
+2021-05-01 13:06:11.216783
+Turning off.
+2021-05-01 13:08:03.818803
+Turning off.
+2021-05-01 13:08:48.544871
+Turning off.
+2021-05-01 13:10:49.794424
+Turning off.
