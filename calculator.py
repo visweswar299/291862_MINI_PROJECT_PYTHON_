@@ -78,7 +78,7 @@ while True:
         else:
             number1 = int(input1.strip())
             print("Enter a number or type 'STOP' to turn off:" + str(number1), file=f)
-        # operator - enter what operation do you want
+        # operator - enter what operation do you want from the given symbol otherwise it will show invalid opertor.
         operator = input("Enter an operation (+, -, *, /, %, or **): ")
         operator = operator.strip()
         print("Enter an operation (+, -, *, /, or %):" + str(operator), file=f)
