@@ -35,7 +35,7 @@ def divide(operand1, operand2):
         :return: division of first number and second number to get quotient
     """
     if operand1 == 0 or operand2 == 0:
-        return
+        return None
     else:
         return operand1 / operand2
 
@@ -68,10 +68,8 @@ while True:
         print("\n-------------------------------------------------------------------------------\n")
         print(datetime.now())
         print(datetime.now(), file=f)
-        '''
-        enter first number to calculate other wise type stop to turn off
-        if entered value is not digit then it shows invalid number
-        '''
+        # enter first number to calculate other wise type stop to turn off
+        # if entered value is not digit then it shows invalid number
         input1 = input("Enter a number or type 'STOP' to turn off: ")
         if input1 == 'STOP' or input1 == 'stop' or input1 == 'Stop':
             print("Turning off.")
@@ -84,7 +82,8 @@ while True:
         else:
             number1 = int(input1.strip())
             print("Enter a number or type 'STOP' to turn off:" + str(number1), file=f)
-        # operator - enter what operation do you want from the given symbol otherwise it will show invalid operator.
+        # operator - enter what operation do you want from the given symbol
+        # otherwise it will show invalid operator.
         operator = input("Enter an operation (+, -, *, /, %, or **): ")
         operator = operator.strip()
         print("Enter an operation (+, -, *, /, or %):" + str(operator), file=f)
