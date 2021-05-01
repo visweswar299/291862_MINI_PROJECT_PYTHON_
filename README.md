@@ -15,3 +15,9 @@ Can also run in cmd (floder path>pytest test_calculator.py -s)
 then  enter (stop/STOP/Stop), it will run Testcases.
 
 myfile.txt is a file to store the entered values at the run time of the program.
+
+
+
+
+Also I have done simple project health management system.
+In this project user can store what he did eat or did exercise names and also retrieve what did he stored along date and time.  
