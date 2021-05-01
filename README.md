@@ -9,9 +9,9 @@ This file can run in pycharm and cmd(folder path>python calculator.py)then hit e
 test_calculator.py is testcases for calculator.py.
 
 To run test_calculator.py go to terminal in pycharm and type (pytest test_calculator.py -s)
-then  enter (stop/STOP/Stop), then it will run Testcases.
+then  enter (stop/STOP/Stop), it will run Testcases.
 
 Can also run in cmd (floder path>pytest test_calculator.py -s) 
-then  enter (stop/STOP/Stop), then it will run Testcases.
+then  enter (stop/STOP/Stop), will run Testcases.
 
 myfile.txt is a file to store the entered values at the run time of the program.
