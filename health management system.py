@@ -7,7 +7,7 @@ def get_time():
 
 def take(k):
     if k == 1:
-        c = int(input("enter 1 for exercise and 2 for food"))
+        c = int(input("enter 1 for exercise and 2 for food:"))
         if c == 1:
             value = input("type here\n")
             with open("viswa-ex.txt", "a") as op:
@@ -24,7 +24,7 @@ def take(k):
 
 def retrieve(k):
     if k == 1:
-        c = int(input("enter 1 for exercise and 2 for food"))
+        c = int(input("enter 1 for exercise and 2 for food:"))
         if c == 1:
             with open("viswa-ex.txt") as op:
                 for i in op:
