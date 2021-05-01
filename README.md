@@ -20,4 +20,4 @@ myfile.txt is a file to store the entered values at the run time of the program.
 
 
 Also I have done simple project health management system.py
-In this project user can store what he did ate or did exercise names and also retrieve what did he stored in the file along date and time.  
+In this project user can store what he did ate or did exercise names and also retrieve what did he stored in the files along date and time.  
