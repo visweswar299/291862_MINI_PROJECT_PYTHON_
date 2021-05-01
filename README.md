@@ -13,3 +13,5 @@ then  enter (stop/STOP/Stop), then it will run Testcases.
 
 Can also run in cmd (floder path>pytest test_calculator.py -s) 
 then  enter (stop/STOP/Stop), then it will run Testcases.
+
+myfile.txt is a file to store the entered values at the run time of the program.
