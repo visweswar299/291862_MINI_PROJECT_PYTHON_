@@ -17,5 +17,4 @@ then  enter (stop/STOP/Stop), it will run Testcases.
 myfile.txt is a file to store the entered values at the run time of the program.
 
 
-
-
+use pylint calculator.py to check static code analysis
