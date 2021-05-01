@@ -16,9 +16,19 @@ def test_multiply():
     assert output == 50
 
 
+def test_multiply_zero():
+    output = calculator.multiply(10, 0)
+    assert output == 0
+
+
 def test_divide():
     output = calculator.divide(10, 5)
     assert output == 2
+
+
+def test_divide_zero():
+    output = calculator.divide(10, 0)
+    assert output is None
 
 
 def test_modulo():
@@ -26,6 +36,16 @@ def test_modulo():
     assert output == 0
 
 
+def test_modulo_zero():
+    output = calculator.modulo(10, 5)
+    assert output == 0
+
+
 def test_power():
     output = calculator.power(10, 5)
     assert output == 100000
+
+
+def test_power_zero():
+    output = calculator.power(10, 0)
+    assert output == 1
